@@ -5,7 +5,7 @@ My name is Tyler, I'm an automation developer, and this is my Github :octocat:
 Please have a look around :eyes: and let me know if I can help with anything or if you'd like to get connected! 🤝
 
 ### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tteschon&hide=stars&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tteschon&hide=stars&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=1b1f23&hide_border=true)
 
 ### Tech Stack
 
@@ -17,4 +17,4 @@ Please have a look around :eyes: and let me know if I can help with anything or 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tteschon&theme=transparent&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tteschon&theme=transparent&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=1b1f23&hide_border=true)
