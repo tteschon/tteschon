@@ -18,3 +18,5 @@ Please have a look around :eyes: and let me know if I can help with anything or 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tteschon&theme=transparent&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=1b1f23&hide_border=true)
+
+[![An image of @tteschon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tteschon)](https://holopin.io/@tteschon)
