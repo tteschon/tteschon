@@ -1,4 +1,5 @@
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/tteschon?style=social"><img alt="Static Badge" src="https://img.shields.io/badge/udemy-purple?style=for-the-badge&logo=udemy&logoColor=white&logoSize=auto&color=black&link=https%3A%2F%2Fwww.udemy.com%2F">
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/tteschon?style=social)](https://x.com/tylerteschon)
+[![Static Badge](https://img.shields.io/badge/udemy-purple?style=for-the-badge&logo=udemy&logoColor=white&logoSize=auto&color=black)](https://www.udemy.com/)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
